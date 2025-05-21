@@ -1,0 +1,18 @@
+Weather API Testing (Postman Project)
+
+Tools Used:
+- Postman
+- OpenWeatherMap API
+
+Features:
+- GET Weather by City
+- Environment Variables
+- Basic Test Assertions
+
+Files:
+- `Weather_API.postman_collection.json`
+
+How to Use:
+1. Import collection and environment into Postman.
+2. Set your OpenWeatherMap API key in the environment variable `api_key`.
+3. Run requests or collection runner.
